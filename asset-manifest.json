@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Paint/static/js/main.bdcdf895.js",
+    "index.html": "/Paint/index.html",
+    "main.bdcdf895.js.map": "/Paint/static/js/main.bdcdf895.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bdcdf895.js"
+  ]
+}
